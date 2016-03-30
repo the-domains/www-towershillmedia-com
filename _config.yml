@@ -1,0 +1,28 @@
+name: www.towershillmedia.com
+favicon: null
+layout_spectrum: 0.12105567916296422
+typography_spectrum: 0.5826952385250479
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8867330676876009
+  lightness: 0.6993589722551405
+  saturation: 0.6340494218748063
+  rhythmicContrast: 0.08618011814542115
+purpose: []
